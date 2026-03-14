@@ -20,5 +20,7 @@ class Solution {
     }
 }
 
+// let me tell you the approach the approach is simple we are just checking the left and right pointers value and then moving accordingly whether it is behind the target or ahead of the target 
+
 
 //Added Two Sum Solution using Two Pointers 
